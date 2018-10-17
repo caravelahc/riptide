@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mtm"
+version = "0.1.0"
+description = ""
+authors = ["Ranieri Althoff <ranisalt@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.5"
+pony = "^0.7.6"
+cagrex = "^0.4.3"
+psycopg2 = "^2.7"
+
+[tool.poetry.dev-dependencies]
