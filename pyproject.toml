@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mtm"
+name = "riptide"
 version = "0.1.0"
 description = ""
 authors = ["Ranieri Althoff <ranisalt@gmail.com>"]
