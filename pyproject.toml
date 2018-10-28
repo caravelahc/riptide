@@ -7,7 +7,6 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.5"
-pony = "^0.7.6"
 cagrex = "^0.4.3"
 psycopg2 = "^2.7"
 
